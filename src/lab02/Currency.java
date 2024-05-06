@@ -1,5 +1,7 @@
 package lab02;
 
+// Name(s): Lucia Liu, Nithya??
+
 public abstract class Currency 
 {
 	private int wholeValue;
